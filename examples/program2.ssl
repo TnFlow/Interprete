@@ -1,0 +1,24 @@
+master sayShalala
+  print shalala!
+skill
+
+master sayWololo
+  learn message wololo
+  print message
+skill
+
+master say
+  showoff sayShalala
+  showoff sayWololo
+skill
+
+master say2
+  showoff say
+
+  showoff sayWololo
+
+  print nestedStuff
+skill
+
+showoff say
+showoff say2

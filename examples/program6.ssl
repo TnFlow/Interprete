@@ -1,0 +1,7 @@
+challenge asustado == true
+  print ahhhhhhhhh(*grito)
+completed
+
+challenge asustado == false
+  print todo_ok
+completed
